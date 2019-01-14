@@ -17,3 +17,10 @@
 > Template Method Pattern
 
 상속위임
+
+참고 공유 링크
+ - http://woowabros.github.io/experience/2017/10/17/java-serialize.html
+ - https://wickso.me/2017/03/22/methods-common-to-all-objects-2/
+ - https://m.blog.naver.com/PostView.nhn?blogId=writer0713&logNo=220984860512&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+ - http://javannspring.tistory.com/12
+ - 
